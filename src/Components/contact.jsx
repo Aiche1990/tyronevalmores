@@ -9,7 +9,7 @@ class Contact extends Component {
                     <Row>
                         <h3>Interested? let's keep in touch!</h3>
                         <p>I'm currently accepting projects as a challenge and practice.</p>
-                        <a href="/">Start a Conversation</a>
+                        <a href="https://plus.google.com/105553842517996204327">Start a Conversation</a>
                     </Row>
                 </Grid>
             </div>
