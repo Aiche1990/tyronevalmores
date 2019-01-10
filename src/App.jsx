@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Main.css';
-import { BrowserRouter as Router, Route} from 'react-router-dom';
+import { HashRouter as Router, Route} from 'react-router-dom';
+
 
 /* Custom Component Imports */
 
@@ -17,6 +18,7 @@ import './styles/about.css';
 import './styles/projects.css';
 import './styles/contact.css';
 import './styles/footer.css';
+
 
 class App extends Component {
   render() {

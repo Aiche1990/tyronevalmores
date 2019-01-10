@@ -4,7 +4,7 @@ import { Grid, Row, Col, Image } from 'react-bootstrap';
 class About extends Component {
     render() {
         return (
-            <div className="About">
+            <div className="About" id="about">
                 <Grid>
                     <div className="about-me">
                         <Image src="assets/img-me.jpg" className="img-me"/>
