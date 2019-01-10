@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
+import { Jumbotron, Grid, Image } from 'react-bootstrap';
 
 
 class Header extends Component {
