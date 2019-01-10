@@ -8,13 +8,40 @@
     background-attachment: fixed;
     background-origin: center center;
     background-repeat: no-repeat;
-    position: relative;
 }
+
+.video-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.video-wrapper .vid-overlay {
+    position: inherit;
+    background: var( --dBrown );
+    width: inherit;
+    height: inherit;
+    opacity: 0.9;
+    z-index: 2;
+}
+
+.video-wrapper video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    width: auto
+}
+
 .jumbotron {
     width: 100%;
     background: none;
     text-align: center;
     position: absolute;
+    z-index: 2;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -64,7 +91,19 @@
 }
 
 /* Medium Tablet Sizes */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
+    .Header {
+        background: var( --dBrown );
+    }
+
+    .video-wrapper video {
+        position: absolute;
+        min-width: 100%;
+        min-height: 100%;
+        height: auto;
+        width: auto;
+        display: none
+    }
     .jumbotron h2 {
         font-size: 30px;
         font-weight: 700;
@@ -81,3 +120,11 @@
     }
 }
     
+.search-enter {
+    opacity: 0
+}
+
+.search-enter.search-enter-active {
+    opacity: 1;
+    transition: all 0.4s ease-in;
+}

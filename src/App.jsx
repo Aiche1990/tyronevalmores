@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './Main.css';
 import { HashRouter as Router, Route} from 'react-router-dom';
 
-
 /* Custom Component Imports */
 
 import Header from './Components/header';
