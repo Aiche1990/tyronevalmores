@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work3.daf5464e.jpg"
   },
   {
-    "revision": "4afa4adb368feec711d3",
-    "url": "/tyronevalmores/static/css/main.da38ec17.chunk.css"
+    "revision": "f5b52b5d3a6d5ace2d63",
+    "url": "/tyronevalmores/static/css/main.4989fc1b.chunk.css"
   },
   {
     "revision": "2aebcf41fc67c131ddc3",
@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work1.a1f6f698.jpg"
   },
   {
-    "revision": "4afa4adb368feec711d3",
-    "url": "/tyronevalmores/static/js/main.4afa4adb.chunk.js"
-  },
-  {
-    "revision": "95f2130c72849fe26ee5672ee0b58e11",
-    "url": "/tyronevalmores/static/media/work5.95f2130c.jpg"
+    "revision": "f5b52b5d3a6d5ace2d63",
+    "url": "/tyronevalmores/static/js/main.f5b52b5d.chunk.js"
   },
   {
     "revision": "bfbb52ff2a1ef5e5a0e16e2b76702f88",
     "url": "/tyronevalmores/static/media/work2.bfbb52ff.jpg"
+  },
+  {
+    "revision": "95f2130c72849fe26ee5672ee0b58e11",
+    "url": "/tyronevalmores/static/media/work5.95f2130c.jpg"
   },
   {
     "revision": "3e0ef42da892a6a436e8f0bb720e5cdc",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work6.c428ba0c.png"
   },
   {
-    "revision": "b4361869936e669de44c31e7ea00a7d4",
+    "revision": "5f7b659969f974e5176c8a7c1cd5c6c0",
     "url": "/tyronevalmores/index.html"
   }
 ];
