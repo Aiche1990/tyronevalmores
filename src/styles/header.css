@@ -1,0 +1,83 @@
+/* Header Styles */
+
+.Header {
+    width: 100%;
+    height: 100vh;
+    background: url('../img/bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-origin: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.jumbotron {
+    width: 100%;
+    background: none;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.jumbotron .logo {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 50px
+}
+
+.jumbotron h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: var( --bYel );
+}
+
+.jumbotron a {
+    background: none;
+    border-radius: 25px;
+    padding: 0.6em 1.5em;
+    border: 2px solid var( --bYel );
+    color: var( --bYel );
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all .2s ease;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.jumbotron a:hover {
+    background: var( --bYel );
+    color: var( --dBrown );
+    padding: 0.6em 2em;
+}
+
+/* Media Queries */
+
+/* Large Tablet Sizes */
+@media (max-width: 991px) {
+    .jumbotron h2 {
+        font-size: 40px;
+        font-weight: 700;
+        color: var( --bYel );
+    }
+}
+
+/* Medium Tablet Sizes */
+@media (max-width: 767px) {
+    .jumbotron h2 {
+        font-size: 30px;
+        font-weight: 700;
+        color: var( --bYel );
+    }
+}
+
+/* Phone Sizes */
+@media (max-width: 479px) {
+    .jumbotron h2 {
+        font-size: 20px;
+        font-weight: 700;
+        color: var( --bYel );
+    }
+}
+    

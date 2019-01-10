@@ -1,0 +1,16 @@
+/* Main Styles */
+
+* {
+   font-family: 'Montserrat', sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   
+   /* Primary Color */ 
+   --bYel: #f9da66;
+   --dBrown: #252525;
+}
+
+.container {
+   width: 80%
+}

@@ -1,0 +1,50 @@
+/* Contact Styles */
+
+.Contact {
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    position: relative;
+}
+
+.Contact .container .row {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Contact .container h3 {
+    font-size: 30px;
+    font-weight: 700;
+    color: var( --dBrown );
+}
+
+.Contact .container p {
+    font-size: 20px;
+    font-weight: 500;
+    color: var( --dBrown );
+}
+
+.Contact .container a {
+    background: none;
+    border-radius: 25px;
+    padding: 0.6em 1.5em;
+    border: 2px solid var( --dBrown );
+    color: var( --dBrown );
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all .2s ease;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.Contact .container a:hover {
+    background: var( --dBrown );
+    color: white;
+    padding: 0.6em 2em;
+}
+
