@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work3.daf5464e.jpg"
   },
   {
-    "revision": "f5b52b5d3a6d5ace2d63",
+    "revision": "d0b224b548402f83bcf8",
     "url": "/tyronevalmores/static/css/main.4989fc1b.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work1.a1f6f698.jpg"
   },
   {
-    "revision": "f5b52b5d3a6d5ace2d63",
-    "url": "/tyronevalmores/static/js/main.f5b52b5d.chunk.js"
+    "revision": "d0b224b548402f83bcf8",
+    "url": "/tyronevalmores/static/js/main.d0b224b5.chunk.js"
   },
   {
     "revision": "bfbb52ff2a1ef5e5a0e16e2b76702f88",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/tyronevalmores/static/media/work6.c428ba0c.png"
   },
   {
-    "revision": "5f7b659969f974e5176c8a7c1cd5c6c0",
+    "revision": "efcbfe15dab79755db874b2406dfde4e",
     "url": "/tyronevalmores/index.html"
   }
 ];

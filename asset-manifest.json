@@ -1,7 +1,7 @@
 {
   "main.css": "/tyronevalmores/static/css/main.4989fc1b.chunk.css",
-  "main.js": "/tyronevalmores/static/js/main.f5b52b5d.chunk.js",
-  "main.js.map": "/tyronevalmores/static/js/main.f5b52b5d.chunk.js.map",
+  "main.js": "/tyronevalmores/static/js/main.d0b224b5.chunk.js",
+  "main.js.map": "/tyronevalmores/static/js/main.d0b224b5.chunk.js.map",
   "static/js/1.2aebcf41.chunk.js": "/tyronevalmores/static/js/1.2aebcf41.chunk.js",
   "static/js/1.2aebcf41.chunk.js.map": "/tyronevalmores/static/js/1.2aebcf41.chunk.js.map",
   "runtime~main.js": "/tyronevalmores/static/js/runtime~main.29ccf808.js",
@@ -10,6 +10,6 @@
   "static/media/projects.css": "/tyronevalmores/static/media/work1.a1f6f698.jpg",
   "static/css/main.4989fc1b.chunk.css.map": "/tyronevalmores/static/css/main.4989fc1b.chunk.css.map",
   "index.html": "/tyronevalmores/index.html",
-  "precache-manifest.b326037a46213500ad6e509199fe35e7.js": "/tyronevalmores/precache-manifest.b326037a46213500ad6e509199fe35e7.js",
+  "precache-manifest.db4ea4d676dc69d85a354f911adaa0da.js": "/tyronevalmores/precache-manifest.db4ea4d676dc69d85a354f911adaa0da.js",
   "service-worker.js": "/tyronevalmores/service-worker.js"
 }
